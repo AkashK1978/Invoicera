@@ -1,0 +1,25 @@
+			**Welcome Customer**
+
+Bill Number: 814
+
+Customer Name: nikkudi
+
+Phone Number: 656565566
+
+=========================================================================Products				QTY				Price
+=========================================================================
+Bath Soap				01				20 Rs
+Face Wash				01				100 Rs
+Rice				020				2000 Rs
+Maaza				01				75 Rs
+Pepsi				01				70 Rs
+Sprite				01				50 Rs
+Frooti				01				65 Rs
+Coco Cola				01				80 Rs
+=========================================================================
+Cosmetic Tax					14.399999999999999 Rs
+Grocery Tax					100.0 Rs
+Cold Drinks Tax					27.2 Rs
+
+Total Bill					2601.6 Rs
+=========================================================================
