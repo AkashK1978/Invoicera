@@ -38,3 +38,9 @@ The **Invoicera** is a Retail Billing System, Python-based desktop application b
 - **Click Total to calculate amounts with taxes.**
 - **Use Bill to generate an invoice, Email to send it, or Print to print it.**
 - **Clear resets the fields for new transactions.**
+
+## Future Enhancements
+- **Database integration for storing invoices.**
+- **Advanced search functionality.**
+- **Modern UI design.**
+- **Multi-user support with login credentials.**
