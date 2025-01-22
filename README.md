@@ -50,17 +50,21 @@ To run the Retail Billing System, you will need the following dependencies insta
    cd retail-billing-system
    
 2. Install the necessary dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Run the application:
+   ```bash
    python main.py
    
 ## Building the Executable
 To create an executable for the system using `cx_Freeze`, follow these steps:
 - 1. Build the executable:
+     ```bash
      python setup.py build
      
 - 2. To create an MSI installer:
+     ```bash
      python setup.py bdist_msi
 
 
