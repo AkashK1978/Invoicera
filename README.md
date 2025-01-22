@@ -86,3 +86,6 @@ To create an executable for the system using `cx_Freeze`, follow these steps:
 ![Retail Billing System Screenshot](Details.png)
 ![Retail Billing System Screenshot](Email.png)
 
+## Author
+ **Akash Kumawat**
+
