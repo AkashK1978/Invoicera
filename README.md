@@ -30,3 +30,11 @@ The **Invoicera** is a Retail Billing System, Python-based desktop application b
    ```bash
    git clone https://github.com/your-username/retail-billing-system.git
    cd retail-billing-system
+2. Run the application:
+   python billing_system.py
+
+## How to Use
+**Input customer details and product quantities.
+Click Total to calculate amounts with taxes.
+Use Bill to generate an invoice, Email to send it, or Print to print it.
+Clear resets the fields for new transactions.**
