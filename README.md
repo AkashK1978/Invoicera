@@ -81,3 +81,5 @@ To create an executable for the system using `cx_Freeze`, follow these steps:
 - **Multi-user support with login credentials.**
 
 ## Screenshot
+![Retail Billing System Screenshot](Home.png)
+
